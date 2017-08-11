@@ -9,7 +9,7 @@
 # Install
 
 ```shell
-$ npm install @kidsstar/accessor_utility_monobehaviour
+$ npm install @umm/accessor_utility_monobehaviour
 ```
 
 # Usage
