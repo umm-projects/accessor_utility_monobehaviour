@@ -26,8 +26,8 @@
     "scripts"
   ],
   "dependencies": {
-    "@umm/accessor_utility_core": "~1",
-    "@umm/unirx": "~5",
+    "@umm/accessor_utility_core": "github:umm-projects/accessor_utility_core.git",
+    "@umm/unirx": "github:umm-projects/unirx.git",
     "glob": "^7.1.2",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
