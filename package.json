@@ -31,7 +31,7 @@
   "dependencies": {
     "@umm/accessor_utility_core": "umm-projects/accessor_utility_core#^1.0.0",
     "@umm/scripts": "umm-projects/scripts#^1.0.0",
-    "@umm/unirx": "umm-projects/unirx#^1.0.0"
+    "@umm/unirx": "umm-projects/unirx#^2.0.0"
   },
   "devDependencies": {},
   "optionalDependencies": {}
