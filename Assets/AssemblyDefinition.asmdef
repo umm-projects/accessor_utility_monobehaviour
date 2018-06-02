@@ -1,0 +1,11 @@
+{
+  "name": "umm@accessor_utility_monobehaviour",
+  "references": [
+    "umm@accessor_utility_core",
+    "umm@unirx"
+  ],
+  "optionalUnityReferences": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false
+}
