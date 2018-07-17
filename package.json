@@ -1,6 +1,6 @@
 {
   "name": "@umm/accessor_utility_monobehaviour",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Provide property handle method to MonoBehaviour",
   "homepage": "https://github.com/umm/accessor_utility_monobehaviour",
   "bugs": {
