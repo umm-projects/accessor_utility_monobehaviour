@@ -2,9 +2,9 @@
   "name": "@umm/accessor_utility_monobehaviour",
   "version": "1.2.0",
   "description": "Provide property handle method to MonoBehaviour",
-  "homepage": "https://github.com/umm-projects/accessor_utility_monobehaviour",
+  "homepage": "https://github.com/umm/accessor_utility_monobehaviour",
   "bugs": {
-    "url": "https://github.com/umm-projects/accessor_utility_monobehaviour/issues"
+    "url": "https://github.com/umm/accessor_utility_monobehaviour/issues"
   },
   "scripts": {
     "umm:init": "umm-init",
@@ -22,16 +22,16 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:umm-projects/accessor_utility_monobehaviour"
+    "url": "git@github.com:umm/accessor_utility_monobehaviour"
   },
   "files": [
     "Assets",
     "scripts"
   ],
   "dependencies": {
-    "@umm/accessor_utility_core": "umm-projects/accessor_utility_core#^1.0.0",
-    "@umm/scripts": "umm-projects/scripts#^1.0.0",
-    "@umm/unirx": "umm-projects/unirx#^2.0.0"
+    "@umm/accessor_utility_core": "umm/accessor_utility_core#^1.0.0",
+    "@umm/scripts": "umm/scripts#^1.0.0",
+    "@umm/unirx": "umm/unirx#^2.0.0"
   },
   "devDependencies": {},
   "optionalDependencies": {}

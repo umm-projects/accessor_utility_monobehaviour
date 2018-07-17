@@ -9,7 +9,7 @@
 # Install
 
 ```shell
-$ npm install github:umm-projects/accessor_utility_monobehaviour.git
+$ npm install github:umm/accessor_utility_monobehaviour.git
 ```
 
 # Usage
